@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amu-hub
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python_powerbi_mysql
-- 📫 How to reach me email_inbox
+- 💞️ I’m looking to collaborate on......
+- 📫 How to reach me....
 - 😄 Pronouns:A_M_U
 - ⚡ Fun fact: Never_give_up
 
